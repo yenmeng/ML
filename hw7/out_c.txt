@@ -1,0 +1,236 @@
+Preprocessing data...
+Training...
+[001/200] 44.46 sec(s) Train Acc: 0.313197 Loss: 0.060884 | Val Acc: 0.364431 loss: 0.057268
+saving model with accurracy: 0.36443148688046645
+[002/200] 44.48 sec(s) Train Acc: 0.389621 Loss: 0.054554 | Val Acc: 0.463557 loss: 0.050197
+saving model with accurracy: 0.46355685131195334
+[003/200] 45.57 sec(s) Train Acc: 0.439591 Loss: 0.050422 | Val Acc: 0.481924 loss: 0.047303
+saving model with accurracy: 0.48192419825072885
+[004/200] 44.05 sec(s) Train Acc: 0.471518 Loss: 0.048322 | Val Acc: 0.497959 loss: 0.049302
+saving model with accurracy: 0.49795918367346936
+[005/200] 44.07 sec(s) Train Acc: 0.493919 Loss: 0.046590 | Val Acc: 0.512536 loss: 0.046069
+saving model with accurracy: 0.5125364431486881
+[006/200] 44.08 sec(s) Train Acc: 0.503142 Loss: 0.045582 | Val Acc: 0.534985 loss: 0.043049
+saving model with accurracy: 0.5349854227405247
+[007/200] 43.47 sec(s) Train Acc: 0.520474 Loss: 0.043638 | Val Acc: 0.553061 loss: 0.040862
+saving model with accurracy: 0.5530612244897959
+[008/200] 44.08 sec(s) Train Acc: 0.538516 Loss: 0.042609 | Val Acc: 0.562391 loss: 0.040403
+saving model with accurracy: 0.5623906705539359
+[009/200] 44.29 sec(s) Train Acc: 0.548753 Loss: 0.041492 | Val Acc: 0.581341 loss: 0.040462
+saving model with accurracy: 0.5813411078717201
+[010/200] 44.06 sec(s) Train Acc: 0.562437 Loss: 0.040304 | Val Acc: 0.593586 loss: 0.038545
+saving model with accurracy: 0.5935860058309038
+[011/200] 44.28 sec(s) Train Acc: 0.567403 Loss: 0.040063 | Val Acc: 0.583382 loss: 0.041468
+[012/200] 45.75 sec(s) Train Acc: 0.581593 Loss: 0.038670 | Val Acc: 0.546939 loss: 0.041793
+[013/200] 44.93 sec(s) Train Acc: 0.588182 Loss: 0.038230 | Val Acc: 0.609913 loss: 0.037381
+saving model with accurracy: 0.6099125364431487
+[014/200] 44.31 sec(s) Train Acc: 0.599534 Loss: 0.037346 | Val Acc: 0.615160 loss: 0.036129
+saving model with accurracy: 0.6151603498542274
+[015/200] 44.35 sec(s) Train Acc: 0.595277 Loss: 0.037554 | Val Acc: 0.592128 loss: 0.038312
+[016/200] 44.73 sec(s) Train Acc: 0.601155 Loss: 0.036616 | Val Acc: 0.589213 loss: 0.040452
+[017/200] 44.31 sec(s) Train Acc: 0.613318 Loss: 0.035593 | Val Acc: 0.619242 loss: 0.035725
+saving model with accurracy: 0.6192419825072887
+[018/200] 43.99 sec(s) Train Acc: 0.621630 Loss: 0.035111 | Val Acc: 0.622157 loss: 0.035312
+saving model with accurracy: 0.6221574344023324
+[019/200] 43.65 sec(s) Train Acc: 0.624367 Loss: 0.035100 | Val Acc: 0.632945 loss: 0.035457
+saving model with accurracy: 0.6329446064139942
+[020/200] 43.99 sec(s) Train Acc: 0.632272 Loss: 0.034219 | Val Acc: 0.618659 loss: 0.036048
+[021/200] 45.61 sec(s) Train Acc: 0.631867 Loss: 0.033544 | Val Acc: 0.650729 loss: 0.034427
+saving model with accurracy: 0.650728862973761
+[022/200] 44.60 sec(s) Train Acc: 0.642206 Loss: 0.033157 | Val Acc: 0.666472 loss: 0.031034
+saving model with accurracy: 0.6664723032069971
+[023/200] 43.72 sec(s) Train Acc: 0.648287 Loss: 0.033027 | Val Acc: 0.648980 loss: 0.033395
+[024/200] 44.14 sec(s) Train Acc: 0.649909 Loss: 0.032620 | Val Acc: 0.639067 loss: 0.034018
+[025/200] 44.37 sec(s) Train Acc: 0.654470 Loss: 0.031880 | Val Acc: 0.617784 loss: 0.036105
+[026/200] 43.79 sec(s) Train Acc: 0.660754 Loss: 0.031690 | Val Acc: 0.658601 loss: 0.033180
+[027/200] 44.11 sec(s) Train Acc: 0.667342 Loss: 0.031063 | Val Acc: 0.674344 loss: 0.030708
+saving model with accurracy: 0.6743440233236152
+[028/200] 44.08 sec(s) Train Acc: 0.665417 Loss: 0.031000 | Val Acc: 0.668222 loss: 0.031739
+[029/200] 43.83 sec(s) Train Acc: 0.675248 Loss: 0.030277 | Val Acc: 0.673761 loss: 0.031427
+[030/200] 45.03 sec(s) Train Acc: 0.684472 Loss: 0.029864 | Val Acc: 0.672595 loss: 0.031217
+[031/200] 45.06 sec(s) Train Acc: 0.683661 Loss: 0.029547 | Val Acc: 0.669971 loss: 0.031860
+[032/200] 44.32 sec(s) Train Acc: 0.678796 Loss: 0.029500 | Val Acc: 0.672303 loss: 0.031057
+[033/200] 44.20 sec(s) Train Acc: 0.686499 Loss: 0.029173 | Val Acc: 0.664723 loss: 0.031868
+[034/200] 43.99 sec(s) Train Acc: 0.691972 Loss: 0.028806 | Val Acc: 0.674344 loss: 0.031248
+[035/200] 43.69 sec(s) Train Acc: 0.691162 Loss: 0.028801 | Val Acc: 0.655102 loss: 0.034046
+[036/200] 43.93 sec(s) Train Acc: 0.694709 Loss: 0.028686 | Val Acc: 0.679009 loss: 0.031125
+saving model with accurracy: 0.6790087463556851
+[037/200] 44.24 sec(s) Train Acc: 0.705048 Loss: 0.027818 | Val Acc: 0.692711 loss: 0.030344
+saving model with accurracy: 0.6927113702623907
+[038/200] 44.44 sec(s) Train Acc: 0.696229 Loss: 0.027982 | Val Acc: 0.697085 loss: 0.030250
+saving model with accurracy: 0.6970845481049562
+[039/200] 44.40 sec(s) Train Acc: 0.696331 Loss: 0.027666 | Val Acc: 0.675802 loss: 0.031376
+[040/200] 44.94 sec(s) Train Acc: 0.705149 Loss: 0.027301 | Val Acc: 0.704665 loss: 0.028831
+saving model with accurracy: 0.70466472303207
+[041/200] 44.43 sec(s) Train Acc: 0.711332 Loss: 0.027109 | Val Acc: 0.699417 loss: 0.028786
+[042/200] 44.56 sec(s) Train Acc: 0.718731 Loss: 0.026490 | Val Acc: 0.669971 loss: 0.031596
+[043/200] 44.59 sec(s) Train Acc: 0.720049 Loss: 0.026011 | Val Acc: 0.699125 loss: 0.030103
+[044/200] 44.27 sec(s) Train Acc: 0.719846 Loss: 0.026332 | Val Acc: 0.671429 loss: 0.032407
+[045/200] 44.04 sec(s) Train Acc: 0.724812 Loss: 0.025443 | Val Acc: 0.709913 loss: 0.030609
+saving model with accurracy: 0.7099125364431487
+[046/200] 44.34 sec(s) Train Acc: 0.725218 Loss: 0.025678 | Val Acc: 0.709913 loss: 0.029303
+[047/200] 44.35 sec(s) Train Acc: 0.726232 Loss: 0.025446 | Val Acc: 0.683382 loss: 0.033125
+[048/200] 44.33 sec(s) Train Acc: 0.734239 Loss: 0.025203 | Val Acc: 0.706706 loss: 0.029711
+[049/200] 44.42 sec(s) Train Acc: 0.725015 Loss: 0.025323 | Val Acc: 0.704373 loss: 0.029216
+[050/200] 45.18 sec(s) Train Acc: 0.731705 Loss: 0.025113 | Val Acc: 0.695044 loss: 0.030698
+[051/200] 44.86 sec(s) Train Acc: 0.735050 Loss: 0.024735 | Val Acc: 0.706122 loss: 0.029128
+[052/200] 44.04 sec(s) Train Acc: 0.732414 Loss: 0.024802 | Val Acc: 0.703790 loss: 0.029897
+[053/200] 43.87 sec(s) Train Acc: 0.744780 Loss: 0.023958 | Val Acc: 0.701166 loss: 0.031465
+[054/200] 44.30 sec(s) Train Acc: 0.741131 Loss: 0.024207 | Val Acc: 0.724198 loss: 0.028175
+saving model with accurracy: 0.724198250728863
+[055/200] 44.21 sec(s) Train Acc: 0.748632 Loss: 0.023729 | Val Acc: 0.718659 loss: 0.028459
+[056/200] 44.24 sec(s) Train Acc: 0.746503 Loss: 0.023786 | Val Acc: 0.687172 loss: 0.031107
+[057/200] 44.37 sec(s) Train Acc: 0.749848 Loss: 0.023274 | Val Acc: 0.709913 loss: 0.029078
+[058/200] 44.87 sec(s) Train Acc: 0.753193 Loss: 0.022833 | Val Acc: 0.713120 loss: 0.028788
+[059/200] 45.64 sec(s) Train Acc: 0.756943 Loss: 0.022887 | Val Acc: 0.701166 loss: 0.029807
+[060/200] 43.86 sec(s) Train Acc: 0.756436 Loss: 0.022420 | Val Acc: 0.714286 loss: 0.029342
+[061/200] 43.76 sec(s) Train Acc: 0.758463 Loss: 0.022963 | Val Acc: 0.711953 loss: 0.029675
+[062/200] 44.22 sec(s) Train Acc: 0.762822 Loss: 0.022504 | Val Acc: 0.715452 loss: 0.028945
+[063/200] 44.53 sec(s) Train Acc: 0.759274 Loss: 0.022490 | Val Acc: 0.714577 loss: 0.029155
+[064/200] 43.74 sec(s) Train Acc: 0.756234 Loss: 0.022318 | Val Acc: 0.703790 loss: 0.028898
+[065/200] 44.27 sec(s) Train Acc: 0.769511 Loss: 0.021743 | Val Acc: 0.719242 loss: 0.029629
+[066/200] 44.20 sec(s) Train Acc: 0.762315 Loss: 0.022281 | Val Acc: 0.708455 loss: 0.029132
+[067/200] 44.92 sec(s) Train Acc: 0.774782 Loss: 0.021062 | Val Acc: 0.712536 loss: 0.029285
+[068/200] 45.13 sec(s) Train Acc: 0.769005 Loss: 0.021670 | Val Acc: 0.720700 loss: 0.028242
+[069/200] 44.14 sec(s) Train Acc: 0.772654 Loss: 0.020877 | Val Acc: 0.728863 loss: 0.027425
+saving model with accurracy: 0.7288629737609329
+[070/200] 44.50 sec(s) Train Acc: 0.777417 Loss: 0.021020 | Val Acc: 0.724490 loss: 0.027478
+[071/200] 44.14 sec(s) Train Acc: 0.782181 Loss: 0.020668 | Val Acc: 0.723907 loss: 0.028675
+[072/200] 44.51 sec(s) Train Acc: 0.781674 Loss: 0.020172 | Val Acc: 0.714286 loss: 0.029720
+[073/200] 44.65 sec(s) Train Acc: 0.774377 Loss: 0.021045 | Val Acc: 0.707872 loss: 0.029830
+[074/200] 44.35 sec(s) Train Acc: 0.775492 Loss: 0.020626 | Val Acc: 0.717493 loss: 0.030272
+[075/200] 44.16 sec(s) Train Acc: 0.780559 Loss: 0.020614 | Val Acc: 0.708163 loss: 0.030592
+[076/200] 44.06 sec(s) Train Acc: 0.785425 Loss: 0.020443 | Val Acc: 0.735569 loss: 0.028156
+saving model with accurracy: 0.7355685131195335
+[077/200] 45.31 sec(s) Train Acc: 0.786742 Loss: 0.019641 | Val Acc: 0.734985 loss: 0.028727
+[078/200] 44.80 sec(s) Train Acc: 0.781066 Loss: 0.020195 | Val Acc: 0.716618 loss: 0.029421
+[079/200] 44.38 sec(s) Train Acc: 0.789378 Loss: 0.019849 | Val Acc: 0.726531 loss: 0.028088
+[080/200] 43.65 sec(s) Train Acc: 0.789175 Loss: 0.019595 | Val Acc: 0.723324 loss: 0.029608
+[081/200] 37.84 sec(s) Train Acc: 0.791709 Loss: 0.019469 | Val Acc: 0.727114 loss: 0.027913
+[082/200] 37.89 sec(s) Train Acc: 0.785019 Loss: 0.019811 | Val Acc: 0.726239 loss: 0.027708
+[083/200] 37.52 sec(s) Train Acc: 0.793939 Loss: 0.019318 | Val Acc: 0.717493 loss: 0.028620
+[084/200] 37.35 sec(s) Train Acc: 0.799615 Loss: 0.018859 | Val Acc: 0.733528 loss: 0.028578
+[085/200] 39.60 sec(s) Train Acc: 0.794547 Loss: 0.019369 | Val Acc: 0.739067 loss: 0.027360
+saving model with accurracy: 0.739067055393586
+[086/200] 38.67 sec(s) Train Acc: 0.794141 Loss: 0.019020 | Val Acc: 0.721866 loss: 0.031141
+[087/200] 38.23 sec(s) Train Acc: 0.795054 Loss: 0.019338 | Val Acc: 0.725948 loss: 0.028216
+[088/200] 37.80 sec(s) Train Acc: 0.801338 Loss: 0.018493 | Val Acc: 0.734402 loss: 0.028257
+[089/200] 37.90 sec(s) Train Acc: 0.800426 Loss: 0.018621 | Val Acc: 0.738484 loss: 0.027916
+[090/200] 37.85 sec(s) Train Acc: 0.799818 Loss: 0.018694 | Val Acc: 0.723615 loss: 0.028943
+[091/200] 37.28 sec(s) Train Acc: 0.800628 Loss: 0.018708 | Val Acc: 0.732653 loss: 0.029066
+[092/200] 38.11 sec(s) Train Acc: 0.799818 Loss: 0.018854 | Val Acc: 0.720700 loss: 0.029091
+[093/200] 39.66 sec(s) Train Acc: 0.801743 Loss: 0.018325 | Val Acc: 0.738776 loss: 0.028541
+[094/200] 37.41 sec(s) Train Acc: 0.805291 Loss: 0.018318 | Val Acc: 0.730321 loss: 0.028748
+[095/200] 37.53 sec(s) Train Acc: 0.806710 Loss: 0.018171 | Val Acc: 0.735860 loss: 0.028685
+[096/200] 37.38 sec(s) Train Acc: 0.814819 Loss: 0.017595 | Val Acc: 0.737318 loss: 0.029111
+[097/200] 37.28 sec(s) Train Acc: 0.812994 Loss: 0.017623 | Val Acc: 0.734985 loss: 0.027563
+[098/200] 37.01 sec(s) Train Acc: 0.814920 Loss: 0.017384 | Val Acc: 0.743440 loss: 0.028133
+saving model with accurracy: 0.7434402332361516
+[099/200] 37.46 sec(s) Train Acc: 0.813704 Loss: 0.017475 | Val Acc: 0.730612 loss: 0.029914
+[100/200] 39.69 sec(s) Train Acc: 0.809953 Loss: 0.017576 | Val Acc: 0.728571 loss: 0.028328
+[101/200] 40.52 sec(s) Train Acc: 0.815629 Loss: 0.017265 | Val Acc: 0.741691 loss: 0.028137
+[102/200] 39.65 sec(s) Train Acc: 0.817961 Loss: 0.017184 | Val Acc: 0.730321 loss: 0.028929
+[103/200] 40.01 sec(s) Train Acc: 0.815224 Loss: 0.017343 | Val Acc: 0.741399 loss: 0.028268
+[104/200] 39.17 sec(s) Train Acc: 0.814210 Loss: 0.017097 | Val Acc: 0.719825 loss: 0.030358
+[105/200] 38.83 sec(s) Train Acc: 0.812183 Loss: 0.017187 | Val Acc: 0.737026 loss: 0.029402
+[106/200] 38.60 sec(s) Train Acc: 0.817454 Loss: 0.017259 | Val Acc: 0.742857 loss: 0.028099
+[107/200] 42.00 sec(s) Train Acc: 0.823839 Loss: 0.016442 | Val Acc: 0.737609 loss: 0.030162
+[108/200] 39.78 sec(s) Train Acc: 0.819785 Loss: 0.016651 | Val Acc: 0.732945 loss: 0.029637
+[109/200] 40.49 sec(s) Train Acc: 0.822725 Loss: 0.016483 | Val Acc: 0.746064 loss: 0.028052
+saving model with accurracy: 0.746064139941691
+[110/200] 39.73 sec(s) Train Acc: 0.826982 Loss: 0.016065 | Val Acc: 0.740816 loss: 0.028629
+[111/200] 41.44 sec(s) Train Acc: 0.821914 Loss: 0.016651 | Val Acc: 0.734402 loss: 0.029475
+[112/200] 40.47 sec(s) Train Acc: 0.821812 Loss: 0.016510 | Val Acc: 0.733819 loss: 0.029977
+[113/200] 39.48 sec(s) Train Acc: 0.832658 Loss: 0.016147 | Val Acc: 0.751312 loss: 0.027445
+saving model with accurracy: 0.7513119533527697
+[114/200] 39.60 sec(s) Train Acc: 0.824245 Loss: 0.016323 | Val Acc: 0.733236 loss: 0.030133
+[115/200] 40.34 sec(s) Train Acc: 0.822927 Loss: 0.016074 | Val Acc: 0.726239 loss: 0.030228
+[116/200] 42.44 sec(s) Train Acc: 0.827792 Loss: 0.016093 | Val Acc: 0.719825 loss: 0.030140
+[117/200] 43.32 sec(s) Train Acc: 0.832354 Loss: 0.015499 | Val Acc: 0.741108 loss: 0.029074
+[118/200] 39.89 sec(s) Train Acc: 0.833367 Loss: 0.015676 | Val Acc: 0.739650 loss: 0.029686
+[119/200] 39.04 sec(s) Train Acc: 0.832354 Loss: 0.016062 | Val Acc: 0.749271 loss: 0.028057
+[120/200] 38.69 sec(s) Train Acc: 0.833874 Loss: 0.015306 | Val Acc: 0.736152 loss: 0.029276
+[121/200] 38.43 sec(s) Train Acc: 0.832354 Loss: 0.015667 | Val Acc: 0.729446 loss: 0.029266
+[122/200] 39.00 sec(s) Train Acc: 0.831340 Loss: 0.015857 | Val Acc: 0.733819 loss: 0.030370
+[123/200] 37.91 sec(s) Train Acc: 0.829516 Loss: 0.015727 | Val Acc: 0.732945 loss: 0.029345
+[124/200] 37.71 sec(s) Train Acc: 0.838030 Loss: 0.015309 | Val Acc: 0.743440 loss: 0.027907
+[125/200] 36.63 sec(s) Train Acc: 0.830630 Loss: 0.015425 | Val Acc: 0.718950 loss: 0.031492
+[126/200] 37.82 sec(s) Train Acc: 0.832860 Loss: 0.015489 | Val Acc: 0.733528 loss: 0.030215
+[127/200] 37.03 sec(s) Train Acc: 0.842692 Loss: 0.014822 | Val Acc: 0.744606 loss: 0.027860
+[128/200] 37.43 sec(s) Train Acc: 0.847861 Loss: 0.014234 | Val Acc: 0.734402 loss: 0.029485
+[129/200] 37.99 sec(s) Train Acc: 0.837421 Loss: 0.014809 | Val Acc: 0.711662 loss: 0.032976
+[130/200] 38.04 sec(s) Train Acc: 0.843503 Loss: 0.014674 | Val Acc: 0.726822 loss: 0.031506
+[131/200] 37.71 sec(s) Train Acc: 0.840259 Loss: 0.014778 | Val Acc: 0.736152 loss: 0.029112
+[132/200] 36.93 sec(s) Train Acc: 0.837928 Loss: 0.014465 | Val Acc: 0.739650 loss: 0.028105
+[133/200] 37.39 sec(s) Train Acc: 0.844618 Loss: 0.014568 | Val Acc: 0.717784 loss: 0.032727
+[134/200] 37.75 sec(s) Train Acc: 0.843098 Loss: 0.014929 | Val Acc: 0.751603 loss: 0.027504
+saving model with accurracy: 0.751603498542274
+[135/200] 37.27 sec(s) Train Acc: 0.845530 Loss: 0.014665 | Val Acc: 0.739359 loss: 0.029708
+[136/200] 37.44 sec(s) Train Acc: 0.846949 Loss: 0.014418 | Val Acc: 0.734694 loss: 0.029536
+[137/200] 38.71 sec(s) Train Acc: 0.843908 Loss: 0.014463 | Val Acc: 0.725656 loss: 0.030209
+[138/200] 38.96 sec(s) Train Acc: 0.848672 Loss: 0.014284 | Val Acc: 0.731778 loss: 0.030050
+[139/200] 37.88 sec(s) Train Acc: 0.853639 Loss: 0.013717 | Val Acc: 0.727988 loss: 0.029311
+[140/200] 37.78 sec(s) Train Acc: 0.850801 Loss: 0.014075 | Val Acc: 0.741108 loss: 0.028631
+[141/200] 37.53 sec(s) Train Acc: 0.852929 Loss: 0.014137 | Val Acc: 0.734694 loss: 0.029270
+[142/200] 37.74 sec(s) Train Acc: 0.845023 Loss: 0.014382 | Val Acc: 0.753644 loss: 0.028247
+saving model with accurracy: 0.7536443148688047
+[143/200] 38.05 sec(s) Train Acc: 0.850598 Loss: 0.013911 | Val Acc: 0.750437 loss: 0.029251
+[144/200] 38.80 sec(s) Train Acc: 0.851409 Loss: 0.013668 | Val Acc: 0.724781 loss: 0.031646
+[145/200] 42.55 sec(s) Train Acc: 0.850801 Loss: 0.013942 | Val Acc: 0.739067 loss: 0.031001
+[146/200] 41.64 sec(s) Train Acc: 0.855260 Loss: 0.013585 | Val Acc: 0.745190 loss: 0.030333
+[147/200] 41.57 sec(s) Train Acc: 0.861342 Loss: 0.013329 | Val Acc: 0.748397 loss: 0.028939
+[148/200] 40.26 sec(s) Train Acc: 0.852828 Loss: 0.013581 | Val Acc: 0.754227 loss: 0.030572
+saving model with accurracy: 0.7542274052478134
+[149/200] 39.50 sec(s) Train Acc: 0.864180 Loss: 0.012876 | Val Acc: 0.737026 loss: 0.031606
+[150/200] 39.35 sec(s) Train Acc: 0.851409 Loss: 0.013723 | Val Acc: 0.746647 loss: 0.028136
+[151/200] 40.39 sec(s) Train Acc: 0.862761 Loss: 0.012722 | Val Acc: 0.712828 loss: 0.035569
+[152/200] 40.05 sec(s) Train Acc: 0.864383 Loss: 0.012882 | Val Acc: 0.751895 loss: 0.030179
+[153/200] 39.27 sec(s) Train Acc: 0.862254 Loss: 0.013244 | Val Acc: 0.747522 loss: 0.029436
+[154/200] 39.78 sec(s) Train Acc: 0.855869 Loss: 0.013349 | Val Acc: 0.746356 loss: 0.031162
+[155/200] 39.50 sec(s) Train Acc: 0.857490 Loss: 0.012909 | Val Acc: 0.749563 loss: 0.028401
+[156/200] 39.36 sec(s) Train Acc: 0.859720 Loss: 0.012939 | Val Acc: 0.728863 loss: 0.032377
+[157/200] 39.67 sec(s) Train Acc: 0.858403 Loss: 0.013001 | Val Acc: 0.727114 loss: 0.031545
+[158/200] 41.01 sec(s) Train Acc: 0.861545 Loss: 0.013073 | Val Acc: 0.740525 loss: 0.030236
+[159/200] 39.33 sec(s) Train Acc: 0.862254 Loss: 0.012978 | Val Acc: 0.742857 loss: 0.029662
+[160/200] 40.66 sec(s) Train Acc: 0.867018 Loss: 0.012251 | Val Acc: 0.725656 loss: 0.032075
+[161/200] 39.03 sec(s) Train Acc: 0.866613 Loss: 0.012427 | Val Acc: 0.740525 loss: 0.029962
+[162/200] 39.58 sec(s) Train Acc: 0.855058 Loss: 0.013144 | Val Acc: 0.737318 loss: 0.032444
+[163/200] 40.64 sec(s) Train Acc: 0.869755 Loss: 0.012198 | Val Acc: 0.715452 loss: 0.032623
+[164/200] 39.50 sec(s) Train Acc: 0.861646 Loss: 0.012618 | Val Acc: 0.730612 loss: 0.033723
+[165/200] 39.04 sec(s) Train Acc: 0.868842 Loss: 0.012416 | Val Acc: 0.729155 loss: 0.033087
+[166/200] 43.58 sec(s) Train Acc: 0.865903 Loss: 0.012568 | Val Acc: 0.745773 loss: 0.030092
+[167/200] 39.80 sec(s) Train Acc: 0.871275 Loss: 0.012031 | Val Acc: 0.751312 loss: 0.030017
+[168/200] 40.88 sec(s) Train Acc: 0.870768 Loss: 0.012260 | Val Acc: 0.730321 loss: 0.033192
+[169/200] 39.50 sec(s) Train Acc: 0.868741 Loss: 0.012450 | Val Acc: 0.743732 loss: 0.030723
+[170/200] 37.90 sec(s) Train Acc: 0.867119 Loss: 0.012217 | Val Acc: 0.738484 loss: 0.030681
+[171/200] 37.76 sec(s) Train Acc: 0.870870 Loss: 0.012224 | Val Acc: 0.746939 loss: 0.031304
+[172/200] 38.00 sec(s) Train Acc: 0.868538 Loss: 0.012104 | Val Acc: 0.728863 loss: 0.032571
+[173/200] 38.38 sec(s) Train Acc: 0.867728 Loss: 0.012376 | Val Acc: 0.740816 loss: 0.032100
+[174/200] 38.76 sec(s) Train Acc: 0.868538 Loss: 0.012190 | Val Acc: 0.741983 loss: 0.031763
+[175/200] 38.39 sec(s) Train Acc: 0.875025 Loss: 0.011777 | Val Acc: 0.733236 loss: 0.034084
+[176/200] 37.09 sec(s) Train Acc: 0.868741 Loss: 0.012131 | Val Acc: 0.734111 loss: 0.030777
+[177/200] 37.80 sec(s) Train Acc: 0.875633 Loss: 0.011705 | Val Acc: 0.744315 loss: 0.032196
+[178/200] 38.47 sec(s) Train Acc: 0.873404 Loss: 0.011843 | Val Acc: 0.737609 loss: 0.030969
+[179/200] 38.70 sec(s) Train Acc: 0.876748 Loss: 0.011884 | Val Acc: 0.741399 loss: 0.031150
+[180/200] 38.69 sec(s) Train Acc: 0.870363 Loss: 0.011804 | Val Acc: 0.720991 loss: 0.033658
+[181/200] 38.71 sec(s) Train Acc: 0.874620 Loss: 0.011857 | Val Acc: 0.751020 loss: 0.031401
+[182/200] 38.89 sec(s) Train Acc: 0.876444 Loss: 0.011724 | Val Acc: 0.748105 loss: 0.030374
+[183/200] 39.06 sec(s) Train Acc: 0.877965 Loss: 0.011312 | Val Acc: 0.740233 loss: 0.032051
+[184/200] 38.89 sec(s) Train Acc: 0.883844 Loss: 0.010952 | Val Acc: 0.735277 loss: 0.031747
+[185/200] 38.14 sec(s) Train Acc: 0.876140 Loss: 0.011590 | Val Acc: 0.751020 loss: 0.030439
+[186/200] 39.73 sec(s) Train Acc: 0.881208 Loss: 0.011340 | Val Acc: 0.744898 loss: 0.032135
+[187/200] 39.90 sec(s) Train Acc: 0.878877 Loss: 0.011684 | Val Acc: 0.755685 loss: 0.030067
+saving model with accurracy: 0.7556851311953353
+[188/200] 39.61 sec(s) Train Acc: 0.873505 Loss: 0.011531 | Val Acc: 0.725656 loss: 0.034517
+[189/200] 39.34 sec(s) Train Acc: 0.878978 Loss: 0.011149 | Val Acc: 0.743149 loss: 0.029543
+[190/200] 39.62 sec(s) Train Acc: 0.881614 Loss: 0.010970 | Val Acc: 0.727988 loss: 0.032993
+[191/200] 38.92 sec(s) Train Acc: 0.876039 Loss: 0.011553 | Val Acc: 0.739359 loss: 0.033777
+[192/200] 39.26 sec(s) Train Acc: 0.879384 Loss: 0.011170 | Val Acc: 0.743440 loss: 0.029928
+[193/200] 38.78 sec(s) Train Acc: 0.876850 Loss: 0.011215 | Val Acc: 0.729155 loss: 0.033473
+[194/200] 38.58 sec(s) Train Acc: 0.877053 Loss: 0.011213 | Val Acc: 0.727697 loss: 0.034264
+[195/200] 38.54 sec(s) Train Acc: 0.882323 Loss: 0.010868 | Val Acc: 0.748105 loss: 0.031669
+[196/200] 38.69 sec(s) Train Acc: 0.883539 Loss: 0.010769 | Val Acc: 0.737901 loss: 0.031668
+[197/200] 38.59 sec(s) Train Acc: 0.878877 Loss: 0.011072 | Val Acc: 0.750146 loss: 0.030596
+[198/200] 40.38 sec(s) Train Acc: 0.880701 Loss: 0.011026 | Val Acc: 0.741108 loss: 0.032962
+[199/200] 39.93 sec(s) Train Acc: 0.884148 Loss: 0.010978 | Val Acc: 0.736152 loss: 0.034552
+[200/200] 39.99 sec(s) Train Acc: 0.887391 Loss: 0.010537 | Val Acc: 0.733528 loss: 0.033757
